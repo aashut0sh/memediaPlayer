@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 18, 2017, 3:11:12 PM
+    Author     : user
+*/
+
+.button{
+    -fx-background-color: transparent;
+}
+
+#openButton{
+    
+    -fx-background-image: url("../icons/folder.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#playButton{
+    
+    -fx-background-image: url("../icons/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#pauseButton{
+    
+    -fx-background-image: url("../icons/pause.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#stopButton{
+    
+    -fx-background-image: url("../icons/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#slowerButton{
+    
+    -fx-background-image: url("../icons/backwardfast.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#slowButton{
+    
+    -fx-background-image: url("../icons/backward.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#forwardButton{
+    
+    -fx-background-image: url("../icons/forward.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#fastForward{
+    
+    -fx-background-image: url("../icons/fastforward.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+#exitButton{
+    
+    -fx-background-image: url("../icons/exit.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
